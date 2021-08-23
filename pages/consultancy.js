@@ -13,7 +13,7 @@ const Consultancy = () => {
 			<Navbar />
 			
 			<PageBanner 
-                pageTitle="IT anad Startup Consulting" 
+                pageTitle="IT and Startup Consulting" 
                 homePageUrl="/" 
                 homePageText="Home" 
                 activePageText="IT and Startup Consulting" 
