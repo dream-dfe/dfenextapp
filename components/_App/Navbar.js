@@ -120,7 +120,7 @@ const Navbar = () => {
                                     </li>
 
                                     <li className="nav-item">
-                                        <Link href="https://dffestore.com/" activeClassName="active">
+                                        <Link href="/comingSoon" activeClassName="active">
                                             <a onClick={toggleNavbar} target="_blank" className="nav-link">Dfe Mart</a>
                                         </Link>
                                     </li>

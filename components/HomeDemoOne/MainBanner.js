@@ -115,7 +115,7 @@ const MainBanner = () => {
 
                                 <div>
                                     <ScrollAnimation animateIn="fadeInLeft" delay={100} animateOnce={true}>
-                                        <img src="/images/main-banner/banner-one/img13.png" alt="image" />
+                                        <img src="/images/main-banner/banner-one/img130.png" alt="image" />
                                     </ScrollAnimation>
                                 </div>
 

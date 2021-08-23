@@ -16,7 +16,7 @@ const Consultancy = () => {
                 pageTitle="IT anad Startup Consulting" 
                 homePageUrl="/" 
                 homePageText="Home" 
-                activePageText="IT anad Startup Consulting" 
+                activePageText="IT and Startup Consulting" 
             /> 
 			
             <ServicesDetailsConsultancy />

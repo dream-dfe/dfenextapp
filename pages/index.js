@@ -21,7 +21,7 @@ const IndexPage = () => {
 
             <MainBanner />
 
-            <PartnerStyleTwo />
+            {/* <PartnerStyleTwo /> */}
 
             <PartnerStyleOne />
 
