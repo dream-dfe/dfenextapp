@@ -5,8 +5,6 @@ import WorkProcess from '../components/Common/WorkProcess';
 import CTA from '../components/Common/CTA';
 import Footer from '../components/_App/Footer';
 import ServicesDetailsGoogleForEducation from '../components/ServicesDetails/ServicesDetailsGFE';
-import PricePlansGFE from '../components/PricePlans/PricePlanGFE';
-
 const GoogleForEducation = () => {
     return (
         <>
@@ -21,13 +19,13 @@ const GoogleForEducation = () => {
 			
             <ServicesDetailsGoogleForEducation />
 
-            <WorkProcess />
+            {/* <WorkProcess />
 
-            <PricePlansGFE />
+            
 
             <div className="ptb-100">
                 <CTA />
-            </div>
+            </div> */}
 
 			<Footer />
 		</>
